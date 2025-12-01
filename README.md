@@ -88,13 +88,14 @@
 ## 📂 Highlight Projects
 
 
+- ⚡ **U.S. EV Market Analysis (SQL + Tableau)**  
+  State-level and regional analysis of U.S. electric & alternative-fuel vehicles.  
+  End-to-end SQL pipeline for cleaning, enrichment, policy scoring + Tableau dashboards.
+ 👉 [`github.com/4-murad/ev-analysis`](https://github.com/4-murad/ev-analysis)
+
 - 🔮 **Customer Churn Prediction**  
   End-to-end ML pipeline for predicting churn using Python, scikit-learn and SQL. Includes feature engineering, model selection and evaluation.  
   👉 [`github.com/4-murad/churn-prediction`](https://github.com/4-murad/churn-prediction)
-
-- 📈 **Sales Forecasting Dashboard**  
-  Time series analysis + interactive Power BI dashboard for sales forecasting and business insights.  
-  👉 [`github.com/4-murad/sales-forecast-dashboard`](https://github.com/4-murad/sales-forecast-dashboard)
 
 - 🧼 **Data Cleaning & EDA Toolkit**  
   Reusable functions for data cleaning, missing value handling and EDA templates with visualizations.  
