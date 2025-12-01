@@ -106,11 +106,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=4-murad&show_icons=true&theme=tokyonight)
+## 🏆 GitHub Trophies
 
-![GitHub streak](https://streak-stats.demolab.com?user=4-murad&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=4-murad&theme=tokyonight&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4-murad&layout=compact&theme=tokyonight)
 
 
 
