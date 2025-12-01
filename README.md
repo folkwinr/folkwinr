@@ -110,17 +110,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4-murad&show_icons=true&theme=tokyonight" alt="4-murad GitHub stats" />
-</p>
+![4-murad GitHub stats](https://github-readme-stats.vercel.app/api?username=4-murad&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4-murad&theme=tokyonight" alt="4-murad GitHub streak" />
-</p>
+![4-murad GitHub streak](https://streak-stats.demolab.com?user=4-murad&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-murad&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4-murad&layout=compact&theme=tokyonight)
+
 
 ---
 
