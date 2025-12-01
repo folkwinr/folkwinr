@@ -110,11 +110,14 @@
 
 ## 📊 GitHub Stats
 
-![4-murad GitHub stats](https://github-readme-stats.vercel.app/api?username=4-murad&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![4-murad GitHub streak](https://streak-stats.demolab.com?user=4-murad&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=folkwinr&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4-murad&layout=compact&theme=tokyonight)
+![GitHub streak](https://streak-stats.demolab.com?user=folkwinr&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=folkwinr&layout=compact&theme=tokyonight)
+
 
 
 ---
