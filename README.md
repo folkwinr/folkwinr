@@ -110,8 +110,6 @@
 
 <h2>📊 GitHub Stats</h2>
 
-## 📊 GitHub Stats
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=folkwinr&show_icons=true&theme=tokyonight)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=folkwinr&theme=tokyonight)
