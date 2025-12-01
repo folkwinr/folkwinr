@@ -87,7 +87,6 @@
 
 ## 📂 Highlight Projects
 
-> Replace the links with your actual repos when ready 👇
 
 - 🔮 **Customer Churn Prediction**  
   End-to-end ML pipeline for predicting churn using Python, scikit-learn and SQL. Includes feature engineering, model selection and evaluation.  
