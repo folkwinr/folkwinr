@@ -92,7 +92,7 @@
   State-level and regional analysis of U.S. electric & alternative-fuel vehicles.  
   End-to-end SQL pipeline for cleaning, enrichment, policy scoring + Tableau dashboards.
 
-  👉 [`github.com/4-murad/ev-analysis`](https://github.com/4-murad/ev-analysis)](https://github.com/folkwinr/US-EV-Market-Analysis)
+  👉 [`github.com/folkwinr/ev-analysis`](https://github.com/folkwinr/US-EV-Market-Analysis)
 
 - 🔮 **Customer Churn Prediction**  
   End-to-end ML pipeline for predicting churn using Python, scikit-learn and SQL. Includes feature engineering, model selection and evaluation.  
