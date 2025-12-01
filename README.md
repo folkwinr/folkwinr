@@ -110,17 +110,14 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub streak" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=folkwinr&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+![GitHub streak](https://streak-stats.demolab.com?user=folkwinr&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=folkwinr&layout=compact&theme=tokyonight)
+
 
 
 ---
