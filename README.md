@@ -1,5 +1,5 @@
 <!-- Hero Section -->
-<h1 align="center">Hi 👋, I'm 4.murad</h1>
+<h1 align="center">Hi 👋, I'm ENES</h1>
 <h3 align="center">Data Scientist & Data Analyst • Turning raw data into real decisions</h3>
 
 <p align="center">
@@ -142,8 +142,7 @@
 
 ## 📫 Let’s Connect
 
-- 📧 Email: **example@gmail.com**  
-- 💼 LinkedIn: **[your-linkedin](https://www.linkedin.com/in/your-linkedin/)**  
-- 📊 Kaggle: **[your-kaggle](https://www.kaggle.com/your-kaggle)**  
+- 📧 Email: **ynikenes@gmail.com**  
+- 💼 LinkedIn: ****  
 
 > If you’re looking for someone who enjoys mixing **statistics, code and business logic**, we should definitely talk. 🙂
