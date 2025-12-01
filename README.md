@@ -6,7 +6,7 @@
 - 🤝 I’m looking for help with **MLOps, model deployment and best practices for production**
 - 🌱 I’m currently learning **advanced statistics, experiment design (A/B testing) and cloud data tools**
 - 💬 Ask me about **Python, pandas, SQL, data visualization (Power BI / Tableau), and machine learning**
-- 📫 How to reach me **example@gmail.com**
+- 📫 How to reach me **ynikenes@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folkwinr&label=Profile%20views&color=0e75b6&style=flat" alt="folkwinr" /> </p>
 
