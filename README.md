@@ -102,10 +102,6 @@
   Reusable functions for data cleaning, missing value handling and EDA templates with visualizations.  
   👉 [`github.com/4-murad/eda-toolkit`](https://github.com/4-murad/eda-toolkit)
 
-- 🧪 **A/B Testing Framework**  
-  Utilities for experiment design, power analysis, hypothesis testing and metric evaluation.  
-  👉 [`github.com/4-murad/ab-testing-framework`](https://github.com/4-murad/ab-testing-framework)
-
 ---
 
 <h2>📊 GitHub Stats</h2>
