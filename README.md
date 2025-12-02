@@ -105,12 +105,17 @@
 ---
 ## 👋 Hi, I'm folkwinr
 
-### 🚀 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=folkwinr&show_icons=true&theme=tokyonight)
+![Data Analytics Lab](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=Data-Analytics-Lab&theme=tokyonight&cache_seconds=1)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=folkwinr&layout=compact&theme=tokyonight)
+![Data Science Lab](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=Data-Science-Lab&theme=tokyonight&cache_seconds=1)
 
-![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=portfolio&theme=tokyonight)
+![folkwinr](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=folkwinr&theme=tokyonight&cache_seconds=1)
+
+![US EV Market Analysis](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=US-EV-Market-Analysis&theme=tokyonight&cache_seconds=1)
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=folkwinr&show_icons=true&theme=tokyonight&cache_seconds=1)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=folkwinr&layout=compact&theme=tokyonight&cache_seconds=1)
 
 ---
 
