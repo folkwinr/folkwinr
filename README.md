@@ -106,7 +106,8 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=4-murad&theme=tokyonight&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+![4.murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=folkwinr&show_icons=true)
+
 
 
 
