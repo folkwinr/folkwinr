@@ -103,14 +103,17 @@
   👉 [`github.com/4-murad/eda-toolkit`](https://github.com/4-murad/eda-toolkit)
 
 ---
-
-## 🏆 GitHub Trophies
-
-![4.murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=folkwinr&show_icons=true)
+https://github-readme-stats.vercel.app/api?username=folkwinr&show_icons=true
 
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=folkwinr
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=folkwinr&layout=compact
 
+https://github-readme-stats.vercel.app/api/pin/?username=folkwinr&repo=REPO_ADI
+
+https://github-readme-streak-stats.herokuapp.com/?user=folkwinr
+https://github-readme-activity-graph.vercel.app/graph?username=folkwinr
 
 ---
 
