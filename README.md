@@ -104,18 +104,17 @@
 
 ---
 ## 👋 Hi, I'm folkwinr
+![GitHub Stats](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/general.svg?username=folkwinr)
 
-![Data Analytics Lab](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=Data-Analytics-Lab&theme=tokyonight&cache_seconds=1)
+![Top Langs](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs.svg?username=folkwinr&layout=compact)
 
-![Data Science Lab](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=Data-Science-Lab&theme=tokyonight&cache_seconds=1)
+![Data Analytics Lab](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/pin.svg?username=folkwinr&repo=Data-Analytics-Lab)
 
-![folkwinr](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=folkwinr&theme=tokyonight&cache_seconds=1)
+![Data Science Lab](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/pin.svg?username=folkwinr&repo=Data-Science-Lab)
 
-![US EV Market Analysis](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=US-EV-Market-Analysis&theme=tokyonight&cache_seconds=1)
+![folkwinr](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/pin.svg?username=folkwinr&repo=folkwinr)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=folkwinr&show_icons=true&theme=tokyonight&cache_seconds=1)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=folkwinr&layout=compact&theme=tokyonight&cache_seconds=1)
+![US EV Market Analysis](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/pin.svg?username=folkwinr&repo=US-EV-Market-Analysis)
 
 ---
 
