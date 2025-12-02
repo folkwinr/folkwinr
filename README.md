@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm ENES</h1>
 <h3 align="center">Data Scientist & Data Analyst • Turning raw data into real decisions</h3>
 
+https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ2NTc1MTAsIm5iZiI6MTc2NDY1NzIxMCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjAyVDA2MzMzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1Mjk1YWMxOTM4YzJlMmM2NDAyZDU5ODIzZTc3NTVlODY4ZDJlNmQwOTgwOWI4ZWZhZjA2MmMyZTk5YjU5OTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.70HHf0p2IUu-WLIpkyp44uhDEfSoz2ZMeFiWPYv2idU
+
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
