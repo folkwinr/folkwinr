@@ -103,8 +103,6 @@
   👉 [`github.com/4-murad/eda-toolkit`](https://github.com/4-murad/eda-toolkit)
 
 ---
-## 👋 Hi, I'm folkwinr
-
 ### 🚀 GitHub Stats
 
 <!-- Genel Profil İstatistik Kartı -->
