@@ -104,7 +104,6 @@
 
 ---
 ## 👋 Hi, I'm folkwinr
-## 👋 Hi, I'm folkwinr
 
 ### 🚀 GitHub Stats
 
