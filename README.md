@@ -106,23 +106,11 @@
 ## 👋 Hi, I'm folkwinr
 
 ### 🚀 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=folkwinr&show_icons=true&theme=tokyonight)
-
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=folkwinr&layout=compact&theme=tokyonight)
 
-![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=REPO_ADI&theme=tokyonight)
-
-
-
----
-
-### 📌 Pinned Repositories
-
-<!-- Örnek repo kartları - repo isimlerini istediğin gibi değiştir -->
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=folkwinr&repo=REPO_ADI_1&theme=tokyonight)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=folkwinr&repo=REPO_ADI_2&theme=tokyonight)
+![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=portfolio&theme=tokyonight)
 
 ---
 
