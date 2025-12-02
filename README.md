@@ -103,17 +103,34 @@
   👉 [`github.com/4-murad/eda-toolkit`](https://github.com/4-murad/eda-toolkit)
 
 ---
-https://github-readme-stats.vercel.app/api?username=folkwinr&show_icons=true
+## 👋 Hi, I'm folkwinr
 
+### 🚀 GitHub Stats
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=folkwinr
+<!-- Genel Profil İstatistik Kartı -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=folkwinr&show_icons=true&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=folkwinr&layout=compact
+<!-- En Çok Kullanılan Diller -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folkwinr&layout=compact&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/pin/?username=folkwinr&repo=REPO_ADI
+---
 
-https://github-readme-streak-stats.herokuapp.com/?user=folkwinr
-https://github-readme-activity-graph.vercel.app/graph?username=folkwinr
+### 📌 Pinned Repositories
+
+<!-- Örnek repo kartları - repo isimlerini istediğin gibi değiştir -->
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=folkwinr&repo=REPO_ADI_1&theme=tokyonight)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=folkwinr&repo=REPO_ADI_2&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=folkwinr&theme=tokyonight)
+
+---
+
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=folkwinr&theme=tokyo-night)
+
 
 ---
 
