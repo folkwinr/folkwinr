@@ -107,11 +107,14 @@
 
 ### 🚀 GitHub Stats
 
-<!-- Genel Profil İstatistik Kartı -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=folkwinr&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=folkwinr&show_icons=true&theme=tokyonight)
 
-<!-- En Çok Kullanılan Diller -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folkwinr&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=folkwinr&layout=compact&theme=tokyonight)
+
+![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=REPO_ADI&theme=tokyonight)
+
+
 
 ---
 
