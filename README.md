@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ENES</h1>
 <h3 align="center">Data Scientist & Data Analyst • Turning raw data into real decisions</h3>
 
-![resim](dosyaadi.png)<img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/ae8dbd2f-f498-42ca-beef-a059ffb77a65" />
+<img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/ae8dbd2f-f498-42ca-beef-a059ffb77a65" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
