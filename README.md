@@ -106,6 +106,15 @@
 
 ---
 
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=folkwinr&theme=tokyonight)
+
+---
+
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=folkwinr&theme=tokyo-night)
+
+
 ### 🚀 GitHub Stats
 
 <!-- Genel Profil İstatistik Kartı -->
@@ -128,22 +137,9 @@
 
 ![Data Science Lab](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=Data-Science-Lab&theme=tokyonight&cache_seconds=1)
 
-
 ![folkwinr](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=folkwinr&theme=tokyonight&cache_seconds=1)
 
 ![US EV Market Analysis](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=US-EV-Market-Analysis&theme=tokyonight&cache_seconds=1)
-
-
----
-
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=folkwinr&theme=tokyonight)
-
----
-
-### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=folkwinr&theme=tokyo-night)
-
 
 ---
 
