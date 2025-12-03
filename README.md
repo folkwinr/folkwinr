@@ -31,6 +31,25 @@
 
 ---
 
+## 📂 Highlight Projects
+
+
+- ⚡ **U.S. EV Market Analysis (SQL + Tableau)**  
+  State-level and regional analysis of U.S. electric & alternative-fuel vehicles.  
+  End-to-end SQL pipeline for cleaning, enrichment, policy scoring + Tableau dashboards.
+
+  👉 [`github.com/folkwinr/ev-analysis`](https://github.com/folkwinr/US-EV-Market-Analysis)
+
+- 🔮 **Customer Churn Prediction**  
+  End-to-end ML pipeline for predicting churn using Python, scikit-learn and SQL. Includes feature engineering, model selection and evaluation.  
+  👉 [`github.com/4-murad/churn-prediction`](https://github.com/4-murad/churn-prediction)
+
+- 🧼 **Data Cleaning & EDA Toolkit**  
+  Reusable functions for data cleaning, missing value handling and EDA templates with visualizations.  
+  👉 [`github.com/4-murad/eda-toolkit`](https://github.com/4-murad/eda-toolkit)
+
+  ---
+
 ## 🛠 Tech Stack
 
 ### 🧾 Languages & Core
@@ -87,24 +106,6 @@
 
 ---
 
-## 📂 Highlight Projects
-
-
-- ⚡ **U.S. EV Market Analysis (SQL + Tableau)**  
-  State-level and regional analysis of U.S. electric & alternative-fuel vehicles.  
-  End-to-end SQL pipeline for cleaning, enrichment, policy scoring + Tableau dashboards.
-
-  👉 [`github.com/folkwinr/ev-analysis`](https://github.com/folkwinr/US-EV-Market-Analysis)
-
-- 🔮 **Customer Churn Prediction**  
-  End-to-end ML pipeline for predicting churn using Python, scikit-learn and SQL. Includes feature engineering, model selection and evaluation.  
-  👉 [`github.com/4-murad/churn-prediction`](https://github.com/4-murad/churn-prediction)
-
-- 🧼 **Data Cleaning & EDA Toolkit**  
-  Reusable functions for data cleaning, missing value handling and EDA templates with visualizations.  
-  👉 [`github.com/4-murad/eda-toolkit`](https://github.com/4-murad/eda-toolkit)
-
----
 ### 🚀 GitHub Stats
 
 <!-- Genel Profil İstatistik Kartı -->
