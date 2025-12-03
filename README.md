@@ -44,9 +44,9 @@
   End-to-end ML pipeline for predicting churn using Python, scikit-learn and SQL. Includes feature engineering, model selection and evaluation.  
   👉 [`github.com/4-murad/churn-prediction`](https://github.com/folkwinr/churn-prediction)
 
-- 🧼 **Data Cleaning & EDA Toolkit**  
+- 🧼 **AutoScout_EDA_Project**  
   Reusable functions for data cleaning, missing value handling and EDA templates with visualizations.  
-  👉[(https://github.com/folkwinr/eda-toolkit](https://github.com/folkwinr/AutoScout_EDA_Project))
+  👉[`github.com/folkwinr/AutoScout_EDA_Project`)](https://github.com/folkwinr/AutoScout_EDA_Project))
 
   ---
 
