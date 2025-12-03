@@ -42,11 +42,11 @@
 
 - 🔮 **Customer Churn Prediction**  
   End-to-end ML pipeline for predicting churn using Python, scikit-learn and SQL. Includes feature engineering, model selection and evaluation.  
-  👉 [`github.com/4-murad/churn-prediction`](https://github.com/4-murad/churn-prediction)
+  👉 [`github.com/4-murad/churn-prediction`](https://github.com/folkwinr/churn-prediction)
 
 - 🧼 **Data Cleaning & EDA Toolkit**  
   Reusable functions for data cleaning, missing value handling and EDA templates with visualizations.  
-  👉 [`github.com/4-murad/eda-toolkit`](https://github.com/4-murad/eda-toolkit)
+  👉 [`github.com/4-murad/eda-toolkit`](https://github.com/folkwinr/eda-toolkit)
 
   ---
 
