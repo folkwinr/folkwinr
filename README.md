@@ -46,7 +46,7 @@
 
 - 🧼 **Data Cleaning & EDA Toolkit**  
   Reusable functions for data cleaning, missing value handling and EDA templates with visualizations.  
-  👉 [`github.com/4-murad/eda-toolkit`](https://github.com/folkwinr/eda-toolkit)
+  👉[(https://github.com/folkwinr/eda-toolkit](https://github.com/folkwinr/AutoScout_EDA_Project))
 
   ---
 
