@@ -40,13 +40,13 @@
 
   👉 [`github.com/folkwinr/ev-analysis`](https://github.com/folkwinr/US-EV-Market-Analysis)
 
+  - 🧼 **AutoScout_EDA_Project**  
+  Reusable functions for data cleaning, missing value handling and EDA templates with visualizations.  
+  👉[`github.com/folkwinr/Car-Price-Prediction-EDA`)](https://github.com/folkwinr/Car-Price-Predicton-EDA))
+
 - 🔮 **Customer Churn Prediction**  
   End-to-end ML pipeline for predicting churn using Python, scikit-learn and SQL. Includes feature engineering, model selection and evaluation.  
   👉 [`github.com/4-murad/churn-prediction`](https://github.com/folkwinr/churn-prediction)
-
-- 🧼 **AutoScout_EDA_Project**  
-  Reusable functions for data cleaning, missing value handling and EDA templates with visualizations.  
-  👉[`github.com/folkwinr/AutoScout_EDA_Project`)](https://github.com/folkwinr/AutoScout_EDA_Project))
 
   ---
 
