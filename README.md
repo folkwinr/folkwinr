@@ -128,24 +128,6 @@
 
 ---
 
-### 📌 Pinned Repositories
-
-<!-- Örnek repo kartları - repo isimlerini istediğin gibi değiştir -->
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=folkwinr&repo=REPO_ADI_1&theme=tokyonight)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=folkwinr&repo=REPO_ADI_2&theme=tokyonight)
-
----
-
-![Data Analytics Lab](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=Data-Analytics-Lab&theme=tokyonight&cache_seconds=1)
-
-![Data Science Lab](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=Data-Science-Lab&theme=tokyonight&cache_seconds=1)
-
-![folkwinr](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=folkwinr&theme=tokyonight&cache_seconds=1)
-
-![US EV Market Analysis](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=folkwinr&repo=US-EV-Market-Analysis&theme=tokyonight&cache_seconds=1)
-
----
-
 ## 🧭 What I’m Currently Focusing On
 
 - Building **production-ready ML models**, not only notebooks  
