@@ -41,7 +41,7 @@
   👉 [`github.com/folkwinr/ev-analysis`](https://github.com/folkwinr/US-EV-Market-Analysis)
 
 
-- 🧼 **AutoScout_EDA_Project**  
+- 🧼 **Car Price Prediction EDA**  
   Reusable functions for data cleaning, missing value handling and EDA templates with visualizations.  
 
   👉[`github.com/folkwinr/Car-Price-Prediction-EDA`)](https://github.com/folkwinr/Car-Price-Prediction-EDA))
