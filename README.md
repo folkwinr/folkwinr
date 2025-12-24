@@ -51,7 +51,7 @@
 Country, continent and global-level analysis of COVID-19 cases, deaths and vaccinations.  
 Built end-to-end SQL analytics pipeline including KPI design (infection rate, death rate, vaccination rate), window functions, CTEs, temp tables and BI-ready views for Tableau dashboards.
 
-👉[`github.com/folkwinr/Covid_SQL_Analysis`)](https://github.com/folkwinr/Covid_SQL_Analysis))
+  👉[`github.com/folkwinr/Covid_SQL_Analysis`)](https://github.com/folkwinr/Covid_SQL_Analysis))
 
 
   ---
