@@ -28,6 +28,8 @@ I enjoy the parts of data work most people avoid — messy joins, inconsistent c
 
 I care a lot about reporting and dashboards people actually use. Not “pretty charts,” but outputs that survive real stakeholder questions.
 
+**SQL • Python • pandas • Data Cleaning • Data Validation • EDA • KPI Design • Reporting • Dashboards • A/B Testing • Experiment Design • Statistics • Automation • Data Modeling • ETL/ELT • Git**
+
 ---
 
 ## 💡 What I’m good at
@@ -53,14 +55,9 @@ I’m intentionally moving toward **Data Science**, but I’m doing it the way I
 
 ---
 
-## 🔑 Keywords (ATS)
-**SQL • Python • pandas • Data Cleaning • Data Validation • EDA • KPI Design • Reporting • Dashboards • A/B Testing • Experiment Design • Statistics • Automation • Data Modeling • ETL/ELT • Git**
-
----
-
 ### ⭐ Goal
 Become the person teams call when they say:  
-**“We have data, but we don’t know what to do with it — or what to ask.”**
+**“Build reporting and metrics that don’t break when stakeholders ask “why?”**
 
 
 ---
