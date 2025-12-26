@@ -18,8 +18,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
 ## 👋 About Me
 
 I’m a **Data Analyst** who’s a bit obsessive (in a good way) about **clarity**: clean definitions, consistent metrics, and reporting that doesn’t fall apart the moment someone asks, *“but what exactly does this mean?”*
