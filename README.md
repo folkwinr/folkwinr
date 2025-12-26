@@ -42,9 +42,17 @@ I care a lot about reporting and dashboards people actually use. Not “pretty c
 ---
 
 ## 🎯 Current focus
-- Better **SQL + Python performance** on larger datasets  
-- **Experiment design / A/B testing thinking** (metrics, guardrails, interpretation)  
-- ML fundamentals (modeling mindset + evaluation) → building toward publishable projects here
+
+- Improving SQL + Python performance on large datasets
+
+- Designing A/B tests and experiments that answer real business questions
+(metrics, guardrails, interpretation)
+
+- Strengthening ML fundamentals (modeling mindset, evaluation) — building toward publishable projects
+
+- Writing clean, reproducible, production-minded code with clear documentation
+
+- Improving data storytelling through reporting and dashboards — less noise, more signal
 
 ---
 
