@@ -169,23 +169,6 @@ Become the person teams call when they say:
 
 ---
 
-## 🧭 What I’m Currently Focusing On
-
-- Building **production-ready ML models**, not only notebooks  
-- Designing **experiments** (A/B tests) that actually answer business questions  
-- Writing **clean, reproducible code** with clear documentation  
-- Improving my **storytelling with data** – less noise, more signal
-
----
-
-## ☕ Fun (but true) facts
-
-- I can spend hours tuning a model for **+0.5% accuracy** – and enjoy it  
-- I believe **good dashboards > 20-page PDF reports**  
-- I love when stakeholders say _"Wow, that actually makes sense now"_ after a presentation
-
----
-
 ## 📫 Let’s Connect
 
 - 📧 Email: **ynikenes@gmail.com**  
