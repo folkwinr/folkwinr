@@ -20,14 +20,50 @@
 
 ## 🧑‍💻 About Me
 
-- 🔍 I enjoy **digging into messy datasets** and turning them into clean, usable insights  
-- 🧠 Passionate about **machine learning, experimentation, A/B testing and data-driven products**
-- 📊 I love **storytelling with data** using dashboards and clear visualizations  
-- 🚀 Currently focused on:
-  - Building **end-to-end ML pipelines** (from data collection to deployment)
-  - Improving **SQL + Python performance** on large datasets  
-- 🌱 Always learning: **MLOps, cloud analytics (AWS/GCP), experiment design**  
-- 🎯 Goal: Become the person teams call when they say *“We have data, but we don’t know what to do with it.”*
+## 👋 About Me
+
+I’m a **Data Analyst** who’s a bit obsessive (in a good way) about **clarity**: clean definitions, consistent metrics, and reporting that doesn’t fall apart the moment someone asks, *“but what exactly does this mean?”*
+
+I enjoy the parts of data work most people avoid — messy joins, inconsistent categories, edge cases, and ambiguous requirements. My default mode is:
+
+**make it measurable → make it reliable → make it readable**
+
+I care a lot about reporting and dashboards people actually use. Not “pretty charts,” but outputs that survive real stakeholder questions.
+
+---
+
+## 💡 What I’m good at
+- Turning messy datasets into **validated, decision-ready** tables
+- Writing **performance-aware SQL** (not just working queries — scalable ones)
+- Using **Python (pandas)** to automate cleaning + analysis workflows
+- Creating **consistent KPI definitions** (so teams stop arguing about numbers)
+- Communicating results clearly — **no overclaiming, no magic**
+
+---
+
+## 🧭 What you’ll find here
+Right now, my public work is **analytics-focused**: SQL, Python analysis notebooks, reporting patterns, and practical workflows.
+
+I’m intentionally moving toward **Data Science**, but I’m doing it the way I prefer to work: **foundation first, then publish**. I study ML and experimentation seriously, and I’m building DS projects that reflect real product constraints (data quality, leakage, evaluation, trade-offs) instead of toy demos.
+
+---
+
+## 🎯 Current focus
+- Better **SQL + Python performance** on larger datasets  
+- **Experiment design / A/B testing thinking** (metrics, guardrails, interpretation)  
+- ML fundamentals (modeling mindset + evaluation) → building toward publishable projects here
+
+---
+
+## 🔑 Keywords (ATS)
+**SQL • Python • pandas • Data Cleaning • Data Validation • EDA • KPI Design • Reporting • Dashboards • A/B Testing • Experiment Design • Statistics • Automation • Data Modeling • ETL/ELT • Git**
+
+---
+
+### ⭐ Goal
+Become the person teams call when they say:  
+**“We have data, but we don’t know what to do with it — or what to ask.”**
+
 
 ---
 
