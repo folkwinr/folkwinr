@@ -41,13 +41,6 @@ I care a lot about reporting and dashboards people actually use. Not “pretty c
 
 ---
 
-## 🧭 What you’ll find here
-Right now, my public work is **analytics-focused**: SQL, Python analysis notebooks, reporting patterns, and practical workflows.
-
-I’m intentionally moving toward **Data Science**, but I’m doing it the way I prefer to work: **foundation first, then publish**. I study ML and experimentation seriously, and I’m building DS projects that reflect real product constraints (data quality, leakage, evaluation, trade-offs) instead of toy demos.
-
----
-
 ## 🎯 Current focus
 - Better **SQL + Python performance** on larger datasets  
 - **Experiment design / A/B testing thinking** (metrics, guardrails, interpretation)  
