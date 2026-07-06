@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋 I'm ENES</h1>
 <h3 align="center">Data Analyst → Data Engineer → Data Scientist • Reliable reporting starts with trusted data
 
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
