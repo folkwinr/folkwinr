@@ -42,6 +42,8 @@ I care a lot about reporting and dashboards people actually use. Not “pretty c
 - Creating **consistent KPI definitions** (so teams stop arguing about numbers)
 - Communicating results clearly — **no overclaiming, no magic**
 
+---
+
   **SQL • Python • pandas • Data Cleaning • Data Validation • EDA • KPI Design • Reporting • Dashboards • A/B Testing • Experiment Design • Statistics • Automation • Data Modeling • ETL/ELT • Data Warehousing • Data Modeling • Star Schema • Git**
 
 ---
