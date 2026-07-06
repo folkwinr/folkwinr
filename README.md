@@ -32,11 +32,15 @@ I care a lot about reporting and dashboards people actually use. Not “pretty c
 ## 💡 What I’m good at
 - Turning messy datasets into **validated, decision-ready** tables
 - Writing **performance-aware SQL** (not just working queries — scalable ones)
+- Building SQL-based ETL pipelines and layered data models
+- Designing Bronze–Silver–Gold data warehouse structures
+- Creating Star Schema models with fact and dimension views
+- Writing performance-aware SQL, stored procedures, and validation checks
 - Using **Python (pandas)** to automate cleaning + analysis workflows
 - Creating **consistent KPI definitions** (so teams stop arguing about numbers)
 - Communicating results clearly — **no overclaiming, no magic**
 
-  **SQL • Python • pandas • Data Cleaning • Data Validation • EDA • KPI Design • Reporting • Dashboards • A/B Testing • Experiment Design • Statistics • Automation • Data Modeling • ETL/ELT • Git**
+  **SQL • Python • pandas • Data Cleaning • Data Validation • EDA • KPI Design • Reporting • Dashboards • A/B Testing • Experiment Design • Statistics • Automation • Data Modeling • ETL/ELT • Data Warehousing • Data Modeling • Star Schema • Git**
 
 ---
 
@@ -44,14 +48,17 @@ I care a lot about reporting and dashboards people actually use. Not “pretty c
 
 - Improving SQL + Python performance on large datasets
 
+- Building stronger SQL Server data warehouse projects with clean ETL, validation, and dimensional modeling
+
 - Designing A/B tests and experiments that answer real business questions
 (metrics, guardrails, interpretation)
-
-- Strengthening ML fundamentals (modeling mindset, evaluation) — building toward publishable projects
 
 - Writing clean, reproducible, production-minded code with clear documentation
 
 - Improving data storytelling through reporting and dashboards — less noise, more signal
+
+-  Strengthening ML fundamentals (modeling mindset, evaluation) — building toward publishable projects
+
 
 ---
 
