@@ -6,28 +6,6 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,aws,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,databricks,spark,tableau,powerbi" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/your-kaggle" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:ynikenes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,sqlserver,databricks,spark,aws,tableau,git,github,vscode" />
 </p>
 
