@@ -42,7 +42,6 @@ My approach to data is:
 
 I am interested in opportunities where I can combine analytical thinking with technical skills to build useful, scalable, and business-focused data solutions.
 
----
 
 ## 💡 Core Strengths
 
