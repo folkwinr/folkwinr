@@ -6,6 +6,14 @@
 ---
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,aws,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,databricks,spark,tableau,powerbi" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -55,14 +63,6 @@ I am interested in opportunities where I can combine analytical thinking with te
 ---
 
   **SQL • SQL Server • Python • PySpark • Databricks • AWS S3 • ETL/ELT • Structured Streaming • Data Warehousing • Medallion Architecture • Star Schema • Data Modeling • Data Cleaning • Data Validation • Data Quality • EDA • Statistics • KPI Design • Reporting • Dashboards • Tableau • Power BI • Git • GitHub**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,aws,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,databricks,spark,tableau,powerbi" />
-</p>
 
 ---
 
