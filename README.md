@@ -60,19 +60,12 @@ I am interested in opportunities where I can combine analytical thinking with te
 
 ## 🎯 Current focus
 
-- Improving SQL + Python performance on large datasets
-
-- Building stronger SQL Server data warehouse projects with clean ETL, validation, and dimensional modeling
-
-- Designing A/B tests and experiments that answer real business questions
-(metrics, guardrails, interpretation)
-
-- Writing clean, reproducible, production-minded code with clear documentation
-
-- Improving data storytelling through reporting and dashboards — less noise, more signal
-
--  Strengthening ML fundamentals (modeling mindset, evaluation) — building toward publishable projects
-
+- Building more **end-to-end data projects** that combine **Data Analytics** and **Data Engineering**
+- Improving my skills in **SQL Server**, **PySpark**, **Databricks**, and **AWS** for scalable data solutions
+- Designing robust **Data Warehouses**, **Star Schema** models, and **Bronze–Silver–Gold** ETL pipelines
+- Strengthening my knowledge of **data modeling**, **data quality**, and pipeline optimization
+- Creating more business-focused dashboards and analytics projects with clear KPIs and actionable insights
+- Expanding my **Machine Learning** knowledge through practical, real-world projects
 
 ---
 
