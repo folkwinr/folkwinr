@@ -4,9 +4,22 @@
 <h3 align="center">Data Analytics & Data Engineering | Building reliable data for better business decisions
 
 ---
+<!-- Hero Section -->
+
+<!--
+![Animasyon](https://user-images.githubusercontent.com/74038190/213910345-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+-->
+
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Data Engineering Banner">
+  <img src="./banner.svg" alt="Data Engineering Banner" width="100%">
 </p>
+
+<h1 align="center">Hi 👋 I'm Enes</h1>
+
+<h3 align="center">
+Data Analytics &amp; Data Engineering |
+Building reliable data for better business decisions
+</h3>
 <!-- Hero Section -->
 
 <!-- Eski animasyon
