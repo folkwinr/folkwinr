@@ -39,16 +39,18 @@ I am interested in opportunities where I can combine analytical thinking with te
 
 ---
 
-## 💡 What I’m good at
-- Turning messy datasets into **validated, decision-ready** tables
-- Writing **performance-aware SQL** (not just working queries — scalable ones)
-- Building SQL-based ETL pipelines and layered data models
-- Designing Bronze–Silver–Gold data warehouse structures
-- Creating Star Schema models with fact and dimension views
-- Writing performance-aware SQL, stored procedures, and validation checks
-- Using **Python (pandas)** to automate cleaning + analysis workflows
-- Creating **consistent KPI definitions** (so teams stop arguing about numbers)
-- Communicating results clearly — **no overclaiming, no magic**
+## 💡 Core Strengths
+
+- Building **end-to-end data solutions** from raw data to **validated, decision-ready datasets** and business insights
+- Designing **SQL data warehouses**, **Star Schema** models with **fact** and **dimension** tables
+- Developing **Bronze–Silver–Gold ETL pipelines** using SQL Server, PySpark, Databricks, and AWS S3
+- Cleaning, transforming, and validating data with a strong **data quality** mindset
+- Writing clean, efficient, and maintainable **SQL** for ETL, reporting, analytics, and automation
+- Building reliable **analytics-ready datasets** and reusable data models
+- Exploring data to identify trends, create meaningful **KPIs**, and support business decision-making
+- Creating dashboards and reports that are **clear, reliable, and easy to use**
+- Solving complex data challenges such as missing values, duplicates, inconsistent formats, and messy joins
+- Communicating technical findings in a simple, clear, and business-friendly way
 
 ---
 
