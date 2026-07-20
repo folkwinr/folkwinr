@@ -78,30 +78,38 @@ To build a career where technical skills, curiosity, continuous learning, and co
 ## 📂 Highlight Projects
 
 
-- ⚡ **U.S. EV Market Analysis (SQL + Tableau)**  
-  State-level and regional analysis of U.S. electric & alternative-fuel vehicles.  
-  End-to-end SQL pipeline for cleaning, enrichment, policy scoring + Tableau dashboards.
+- ⚡ **SQL Data Warehouse Project (SQL Server | ETL | Data Warehousing)**  
+  Built a centralized SQL Server data warehouse using **Bronze–Silver–Gold architecture**, integrating CRM and ERP data into analytics-ready datasets. Designed a **Star Schema** with fact and dimension tables, implemented ETL pipelines, and applied comprehensive data quality validation.
 
-  👉 [`github.com/folkwinr/ev-analysis`](https://github.com/folkwinr/US-EV-Market-Analysis)
+  👉 https://github.com/folkwinr/SQL-Data-Warehouse-Project
 
+---
 
-- 🧼 **Car Price Prediction EDA**  
-   Reusable functions for data cleaning, missing value handling and EDA templates with visualizations.  
+- 🚀 **Databricks End-to-End ETL Pipeline (PySpark | Databricks | AWS S3)**  
+  Developed an automated, event-driven ETL pipeline that ingests transaction data from AWS S3 into Databricks. Applied PySpark transformations, data quality checks, and built Gold-layer business metrics for reporting and analytics.
 
-  👉[`github.com/folkwinr/Car-Price-Prediction-EDA`)](https://github.com/folkwinr/Car-Price-Prediction-EDA)
+  👉 https://github.com/folkwinr/Databricks-End-to-End-ETL-Pipeline
 
+---
 
-- 🦠 **COVID-19 Global Data Exploration (SQL + Analytics)**
-   Country, continent and global-level analysis of COVID-19 cases, deaths and vaccinations.  
-   Built end-to-end SQL analytics pipeline including KPI design (infection rate, death rate, vaccination rate), window functions, CTEs, temp tables and BI-ready views for     Tableau dashboards.
+- ⚡ **U.S. EV Market Analysis (SQL Server | Tableau)**  
+  Built an end-to-end SQL analytics pipeline to clean, validate, and analyze U.S. electric vehicle registration data. Prepared Tableau-ready datasets and dashboards for KPI tracking, regional comparisons, and EV adoption insights.
 
-  👉[`github.com/folkwinr/Covid_SQL_Analysis`)](https://github.com/folkwinr/Covid_SQL_Analysis)
+  👉 https://github.com/folkwinr/US-EV-Market-Analysis
 
-  • 🍽️ **Restaurant Order Analysis (SQL + MySQL)**
-    Menu pricing + category structure and 3-month order activity exploration (Jan–Mar 2023) using core SQL aggregations.
-    Joined `order_details` + `menu_items` to identify least/most ordered items, category signals, and top 5 highest-spend orders (GROUP BY, HAVING, subqueries, LEFT JOIN).
+---
 
-  👉[`github.com/folkwinr/Covid_SQL_Analysis`)](https://github.com/folkwinr/Restaurant-Order-Analysis-SQL)
+- 🚗 **Car Data Cleaning & EDA (Python | Pandas)**  
+  Cleaned and transformed over **29,000** used car listings into an analysis-ready dataset through data preprocessing, feature engineering, and exploratory data analysis to uncover pricing patterns and market trends.
+
+  👉 https://github.com/folkwinr/Car-Data-Cleaning-and-EDA
+
+---
+
+- 🏠 **Paris Airbnb Pricing & Regulation Impact (Python | Pandas)**  
+  Analyzed more than **64,000** Airbnb listings to explore pricing trends, neighborhood differences, and the impact of the 2015 regulation using data cleaning, visualization, and exploratory analysis.
+
+  👉 https://github.com/folkwinr/Paris-Airbnb-Pricing-and-Regulation-Impact-2015
 
 
 
