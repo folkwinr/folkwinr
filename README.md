@@ -5,6 +5,8 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/👋 I'm ENES)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,sqlserver,databricks,spark,aws,tableau,git,github,vscode" />
 </p>
