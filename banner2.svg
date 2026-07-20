@@ -1,0 +1,313 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+<title id="title">Premium Data Engineering Architecture</title>
+<desc id="desc">Animated modern data engineering pipeline from raw sources to business insights.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#08111d"/>
+    <stop offset=".5" stop-color="#0b1524"/>
+    <stop offset="1" stop-color="#07101b"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity=".10"/>
+    <stop offset=".45" stop-color="#6fb8ef" stop-opacity=".035"/>
+    <stop offset="1" stop-color="#ffffff" stop-opacity=".02"/>
+  </linearGradient>
+  <linearGradient id="cyanBlue" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#38bdf8"/>
+    <stop offset="1" stop-color="#3b82f6"/>
+  </linearGradient>
+  <linearGradient id="bronze" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#f59e0b" stop-opacity=".9"/>
+    <stop offset=".55" stop-color="#9a4e16"/>
+    <stop offset="1" stop-color="#4b250f"/>
+  </linearGradient>
+  <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#e2e8f0"/>
+    <stop offset=".45" stop-color="#64748b"/>
+    <stop offset="1" stop-color="#1f2937"/>
+  </linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#fde68a"/>
+    <stop offset=".5" stop-color="#eab308"/>
+    <stop offset="1" stop-color="#6b4f00"/>
+  </linearGradient>
+  <radialGradient id="insightGlow">
+    <stop stop-color="#38bdf8" stop-opacity=".24"/>
+    <stop offset=".45" stop-color="#38bdf8" stop-opacity=".07"/>
+    <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+    <path d="M30 0H0V30" fill="none" stroke="#4e88b3" stroke-opacity=".075" stroke-width=".65"/>
+  </pattern>
+  <filter id="shadow" x="-50%" y="-70%" width="200%" height="240%">
+    <feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#020617" flood-opacity=".72"/>
+  </filter>
+  <filter id="cyanGlow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="6"/>
+  </filter>
+  <clipPath id="clip"><rect x="7" y="14" width="986" height="202" rx="13"/></clipPath>
+  <style>
+    text{font-family:Inter,Segoe UI,Arial,sans-serif}
+    .outline{fill:none;stroke:#36bdf5;stroke-width:1.35;stroke-linecap:round;stroke-linejoin:round}
+    .outline2{fill:none;stroke:#60a5fa;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round}
+    .muted{fill:#89a4bf;font-size:6.7px;font-weight:500;text-anchor:middle}
+    .label{fill:#edf7ff;font-size:7.8px;font-weight:600;text-anchor:middle}
+    .tiny{fill:#90a9c2;font-size:5.4px;font-weight:500}
+    .panel{fill:url(#glass);stroke:#75c9ff;stroke-opacity:.26;stroke-width:.85}
+    .line{fill:none;stroke:#2b6588;stroke-width:1;stroke-linecap:round}
+  </style>
+</defs>
+
+<rect x="7" y="14" width="986" height="202" rx="13" fill="url(#bg)"/>
+<g clip-path="url(#clip)">
+  <rect x="7" y="14" width="986" height="202" fill="url(#grid)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;30 0" dur="9s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="7" y="14" width="986" height="202" fill="#020617" opacity=".08"/>
+  <ellipse cx="520" cy="110" rx="430" ry="92" fill="#0ea5e9" opacity=".018"/>
+  <ellipse cx="845" cy="105" rx="155" ry="82" fill="#2563eb" opacity=".025"/>
+
+  <!-- pipeline spine -->
+  <path id="flowPath" d="M48 116H944" class="line"/>
+  <path d="M48 116H944" stroke="url(#cyanBlue)" stroke-width="3" opacity="0" stroke-linecap="round">
+    <animate attributeName="opacity" values="0;0;.28;0;0" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- packets -->
+  <g filter="url(#cyanGlow)">
+    <circle r="2.1" fill="#8ee7ff">
+      <animateMotion dur="8s" repeatCount="indefinite"><mpath href="#flowPath"/></animateMotion>
+    </circle>
+    <circle r="1.6" fill="#60a5fa" opacity=".8">
+      <animateMotion dur="8s" begin="-2.7s" repeatCount="indefinite"><mpath href="#flowPath"/></animateMotion>
+    </circle>
+    <circle r="1.3" fill="#d9f8ff" opacity=".65">
+      <animateMotion dur="8s" begin="-5.4s" repeatCount="indefinite"><mpath href="#flowPath"/></animateMotion>
+    </circle>
+  </g>
+
+  <!-- SQL code callout -->
+  <g transform="translate(165 31)" filter="url(#shadow)">
+    <rect width="142" height="53" rx="7" fill="#0b1624" stroke="#3b82f6" stroke-opacity=".35"/>
+    <circle cx="10" cy="9" r="2" fill="#ef4444"/><circle cx="17" cy="9" r="2" fill="#f59e0b"/><circle cx="24" cy="9" r="2" fill="#22c55e"/>
+    <text x="10" y="20" class="tiny" fill="#c7d7e7">SELECT customer_id, revenue</text>
+    <text x="10" y="29" class="tiny">FROM analytics.sales</text>
+    <text x="10" y="38" class="tiny">WHERE event_date &gt; CURRENT_DATE - 30</text>
+    <text x="10" y="47" class="tiny">GROUP BY customer_id;</text>
+    <path d="M76 53v12" stroke="#3b82f6" stroke-opacity=".45"/>
+  </g>
+
+  <!-- Raw Data: open source, no card -->
+  <g transform="translate(23 82)" filter="url(#shadow)">
+    <ellipse cx="22" cy="7" rx="13" ry="4.2" fill="#0d2740" stroke="#38bdf8" stroke-width="1"/>
+    <path d="M9 7v23c0 2.5 5.8 4.2 13 4.2S35 32.5 35 30V7" fill="#0b2035" stroke="#38bdf8"/>
+    <ellipse cx="22" cy="30" rx="13" ry="4.2" fill="#0d2740" stroke="#38bdf8"/>
+    <path d="M9 17c0 2.5 5.8 4.2 13 4.2S35 19.5 35 17" class="outline"/>
+    <text x="22" y="48" class="tiny" text-anchor="middle">CSV</text>
+    <text x="22" y="57" class="tiny" text-anchor="middle">JSON</text>
+    <text x="22" y="66" class="tiny" text-anchor="middle">API</text>
+    <text x="22" y="82" class="label">Raw Data</text>
+  </g>
+
+  <!-- SQL rack -->
+  <g transform="translate(78 84)" filter="url(#shadow)">
+    <rect width="55" height="65" rx="7" class="panel"/>
+    <g transform="translate(8 8)">
+      <rect width="39" height="13" rx="3" fill="#0a1b2b" stroke="#2d729e"/>
+      <rect y="18" width="39" height="13" rx="3" fill="#0a1b2b" stroke="#2d729e"/>
+      <rect y="36" width="39" height="13" rx="3" fill="#0a1b2b" stroke="#2d729e"/>
+      <g fill="#38bdf8">
+        <circle cx="31" cy="6.5" r="1"><animate attributeName="opacity" values=".2;1;.2" dur="3.2s" repeatCount="indefinite"/></circle>
+        <circle cx="31" cy="24.5" r="1"><animate attributeName="opacity" values="1;.2;1" dur="3.8s" repeatCount="indefinite"/></circle>
+        <circle cx="31" cy="42.5" r="1"><animate attributeName="opacity" values=".2;1;.2" dur="4.2s" repeatCount="indefinite"/></circle>
+      </g>
+    </g>
+    <text x="27.5" y="80" class="label">SQL Server</text>
+  </g>
+
+  <!-- ETL wide card -->
+  <g transform="translate(145 86)" filter="url(#shadow)">
+    <rect width="70" height="61" rx="8" class="panel"/>
+    <g transform="translate(11 11)">
+      <circle cx="8" cy="8" r="6" class="outline"/>
+      <circle cx="8" cy="31" r="6" fill="#f59e0b" stroke="#fde68a"/>
+      <rect x="30" y="3" width="12" height="12" rx="2" class="outline2"/>
+      <rect x="30" y="26" width="12" height="12" rx="2" class="outline2"/>
+      <path d="M14 8h16M14 31h16M42 9h7v22h-7" class="outline"/>
+      <path d="M22 8v23" stroke="#38bdf8" stroke-dasharray="2 3">
+        <animate attributeName="stroke-dashoffset" values="0;-10" dur="3s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <text x="35" y="76" class="label">ETL Pipeline</text>
+  </g>
+
+  <!-- Databricks hero -->
+  <g transform="translate(227 78)" filter="url(#shadow)">
+    <rect width="67" height="76" rx="10" fill="#111a22" stroke="#f97316" stroke-opacity=".7"/>
+    <g transform="translate(13 12)">
+      <path d="m20 0 18 10-18 10L2 10Zm-14 15 14 8 14-8M6 23l14 8 14-8" fill="none" stroke="#f97316" stroke-width="2"/>
+      <animate attributeName="opacity" values=".72;1;.72" dur="7s" repeatCount="indefinite"/>
+    </g>
+    <text x="33.5" y="60" fill="#f97316" font-size="6.8" font-weight="700" text-anchor="middle">databricks</text>
+    <text x="33.5" y="91" class="label">Databricks</text>
+  </g>
+
+  <!-- PySpark compact -->
+  <g transform="translate(307 88)" filter="url(#shadow)">
+    <rect width="62" height="57" rx="8" class="panel"/>
+    <text x="31" y="32" fill="#f8fafc" font-size="9" font-weight="700" text-anchor="middle">PyS<tspan fill="#f97316">park</tspan></text>
+    <path d="M44 20l7 7-7 7" fill="none" stroke="#f59e0b" stroke-width="1.7">
+      <animate attributeName="opacity" values=".45;1;.45" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <text x="31" y="72" class="label">PySpark</text>
+  </g>
+
+  <!-- AWS cloud -->
+  <g transform="translate(381 79)" filter="url(#shadow)">
+    <g>
+      <circle cx="34" cy="35" r="27" fill="#0a2031" stroke="#38bdf8" stroke-width="1.2"/>
+      <path d="M18 41h31a9 9 0 0 0 1-18 14 14 0 0 0-27-2 10 10 0 0 0-5 20Z" fill="#0d2840" stroke="#7dd3fc"/>
+      <text x="34" y="37" fill="#fff" font-size="10" font-weight="700" text-anchor="middle">aws</text>
+      <path d="M26 42c6 4 12 4 18 0" fill="none" stroke="#f59e0b" stroke-width="1.5"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="8s" repeatCount="indefinite"/>
+    </g>
+    <path d="M34 58v10m0 0-4-4m4 4 4-4" class="outline">
+      <animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <text x="34" y="86" class="label">AWS S3</text>
+  </g>
+
+  <!-- Bronze / Silver / Gold differentiated medallions -->
+  <g transform="translate(462 91)" filter="url(#shadow)">
+    <rect width="46" height="54" rx="7" fill="#1a120c" stroke="#b45309" stroke-opacity=".8"/>
+    <rect x="10" y="15" width="26" height="23" rx="7" fill="url(#bronze)"/>
+    <path d="M8 20h30" stroke="#ffd29a" stroke-opacity=".25"/>
+    <rect x="2" y="2" width="42" height="50" rx="6" fill="none" stroke="#f59e0b" stroke-opacity=".15">
+      <animate attributeName="stroke-opacity" values=".08;.42;.08" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <text x="23" y="69" class="label">Bronze</text>
+  </g>
+
+  <g transform="translate(519 91)" filter="url(#shadow)">
+    <rect width="46" height="54" rx="7" fill="#10161d" stroke="#94a3b8" stroke-opacity=".75"/>
+    <rect x="10" y="15" width="26" height="23" rx="7" fill="url(#silver)"/>
+    <path d="M2 22h14" stroke="#fff" stroke-width="2" opacity="0">
+      <animate attributeName="opacity" values="0;.75;0" dur="7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;28 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <text x="23" y="69" class="label">Silver</text>
+  </g>
+
+  <g transform="translate(576 91)" filter="url(#shadow)">
+    <rect width="46" height="54" rx="7" fill="#171307" stroke="#eab308" stroke-opacity=".8"/>
+    <rect x="10" y="15" width="26" height="23" rx="7" fill="url(#gold)"/>
+    <path d="M1 22h15" stroke="#fff7c2" stroke-width="2.2" opacity="0">
+      <animate attributeName="opacity" values="0;.9;0" dur="6.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;29 0" dur="6.5s" repeatCount="indefinite"/>
+    </path>
+    <text x="23" y="69" class="label">Gold</text>
+  </g>
+
+  <!-- Star schema -->
+  <g transform="translate(636 86)" filter="url(#shadow)">
+    <rect width="65" height="62" rx="8" class="panel"/>
+    <g transform="translate(9 8)">
+      <path d="M23 22 6 7m17 15L42 7M23 22 6 40m17-18 19 18" class="outline2">
+        <animate attributeName="stroke-opacity" values=".35;1;.35" dur="6s" repeatCount="indefinite"/>
+      </path>
+      <rect x="18" y="17" width="10" height="10" rx="2" fill="#0d2942" stroke="#38bdf8"/>
+      <rect x="2" y="3" width="8" height="8" rx="1.5" fill="#0d2942" stroke="#60a5fa"/>
+      <rect x="38" y="3" width="8" height="8" rx="1.5" fill="#0d2942" stroke="#60a5fa"/>
+      <rect x="2" y="36" width="8" height="8" rx="1.5" fill="#0d2942" stroke="#60a5fa"/>
+      <rect x="38" y="36" width="8" height="8" rx="1.5" fill="#0d2942" stroke="#60a5fa"/>
+    </g>
+    <text x="32.5" y="77" class="label">Star Schema</text>
+  </g>
+
+  <!-- Analytics, icon-only tower -->
+  <g transform="translate(713 88)" filter="url(#shadow)">
+    <rect width="58" height="58" rx="8" class="panel"/>
+    <g transform="translate(11 11)">
+      <path d="M2 34V19M11 34V9M20 34V23M29 34V3" stroke="#4ea8ff" stroke-width="3" stroke-linecap="round">
+        <animate attributeName="stroke-dasharray" values="2 0;8 2;2 0" dur="7s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <text x="29" y="73" class="label">Analytics</text>
+  </g>
+
+  <!-- Tableau dashboard large panel -->
+  <g transform="translate(786 72)" filter="url(#shadow)">
+    <rect width="118" height="83" rx="9" fill="#0a1624" stroke="#2879ad" stroke-opacity=".75"/>
+    <text x="9" y="12" fill="#6cc6ff" font-size="5.5" font-weight="700">TABLEAU</text>
+    <circle cx="107" cy="10" r="2" fill="#22c55e" opacity=".55"/>
+    <g transform="translate(9 19)">
+      <rect width="30" height="16" rx="3" fill="#0d1c2b" stroke="#274760"/>
+      <rect x="36" width="30" height="16" rx="3" fill="#0d1c2b" stroke="#274760"/>
+      <rect x="72" width="27" height="16" rx="3" fill="#0d1c2b" stroke="#274760"/>
+      <text x="15" y="10" class="tiny" text-anchor="middle">512.4K</text>
+      <text x="51" y="10" class="tiny" text-anchor="middle">25.4K</text>
+      <text x="85.5" y="10" class="tiny" text-anchor="middle">94.2</text>
+      <path d="M4 31h12M4 37h8M4 43h18" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+      <path d="M66 45a14 14 0 1 0 0-28v8a6 6 0 1 1 0 12Z" fill="#2563eb">
+        <animateTransform attributeName="transform" type="rotate" values="0 66 31;8 66 31;0 66 31" dur="8s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <text x="59" y="98" class="label">Tableau Dashboard</text>
+  </g>
+
+  <!-- Business insights circular finale -->
+  <g transform="translate(921 77)">
+    <circle cx="31" cy="31" r="29" fill="url(#insightGlow)">
+      <animate attributeName="r" values="27;34;27" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".65;1;.65" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="31" cy="31" r="23" fill="#081a29" stroke="#38bdf8" stroke-width="1.2"/>
+    <circle cx="31" cy="31" r="29" fill="none" stroke="#38bdf8" stroke-opacity=".35" stroke-dasharray="2 7">
+      <animateTransform attributeName="transform" type="rotate" values="0 31 31;360 31 31" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M20 28a11 11 0 1 1 18 8.5c-2 1.7-2.8 3.2-2.8 5.5h-8.4c0-2.3-.8-3.8-2.8-5.5A10.8 10.8 0 0 1 20 28Zm7 18h8m-7 4h6" class="outline" stroke-width="1.7">
+      <animate attributeName="stroke-opacity" values=".5;1;.5" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <text x="31" y="82" class="label">Business Insights</text>
+  </g>
+
+  <!-- subtle connector dashes -->
+  <g stroke="#38bdf8" stroke-width=".85" stroke-dasharray="2 4" opacity=".38">
+    <path d="M58 116h20"/><path d="M133 116h12"/><path d="M215 116h12"/><path d="M294 116h13"/>
+    <path d="M369 116h12"/><path d="M449 116h13"/><path d="M508 116h11"/><path d="M565 116h11"/>
+    <path d="M622 116h14"/><path d="M701 116h12"/><path d="M771 116h15"/><path d="M904 116h17"/>
+  </g>
+
+  <!-- footer headline -->
+  <path d="M7 178H993" stroke="#27688f" stroke-opacity=".18"/>
+  <path d="M7 197H993" stroke="#27688f" stroke-opacity=".12"/>
+  <g transform="translate(500 191)">
+    <circle cx="-220" cy="0" r="2.2" fill="#38bdf8" filter="url(#cyanGlow)">
+      <animate attributeName="opacity" values=".3;1;.3" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="4" fill="#f8fbff" font-size="13.5" font-weight="600" text-anchor="middle">
+      Building Reliable Data for Better Business Decisions
+    </text>
+    <circle cx="220" cy="0" r="2.2" fill="#38bdf8" filter="url(#cyanGlow)">
+      <animate attributeName="opacity" values="1;.3;1" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ambient particles -->
+  <g fill="#38bdf8" opacity=".2">
+    <circle cx="68" cy="54" r=".8"><animate attributeName="cy" values="54;47;54" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="394" cy="47" r="1"><animate attributeName="cy" values="47;38;47" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="913" cy="51" r=".8"><animate attributeName="cy" values="51;43;51" dur="7s" repeatCount="indefinite"/></circle>
+  </g>
+</g>
+
+<!-- moving premium border -->
+<rect x="7.5" y="14.5" width="985" height="201" rx="12.5" fill="none" stroke="url(#cyanBlue)" stroke-width="1.1" stroke-dasharray="220 150" opacity=".5">
+  <animate attributeName="stroke-dashoffset" values="0;-370" dur="9s" repeatCount="indefinite"/>
+</rect>
+<rect x="9.5" y="16.5" width="981" height="197" rx="10.5" fill="none" stroke="#fff" stroke-opacity=".045"/>
+</svg>
