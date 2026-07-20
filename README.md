@@ -4,7 +4,9 @@
 <h3 align="center">Data Analytics & Data Engineering | Building reliable data for better business decisions
 
 ---
-
+<p align="center">
+  <img src="./premium_animated_data_pipeline_banner.svg" width="100%">
+</p>
 <!-- Hero Section -->
 
 <!-- Eski animasyon
