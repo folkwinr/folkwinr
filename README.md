@@ -5,6 +5,18 @@
 
 ---
 
+<!-- Hero Section -->
+
+<!-- Eski animasyon
+![Animasyon](https://user-images.githubusercontent.com/74038190/213910345-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+-->
+
+<p align="center">
+  <img src="./premium_animated_data_pipeline_banner.svg"
+       alt="Animated Data Engineering Pipeline"
+       width="100%">
+</p>
+
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,sqlserver,databricks,spark,aws,tableau,git,github,vscode" />
 </p>
