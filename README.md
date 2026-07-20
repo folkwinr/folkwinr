@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="./banner.svg" alt="Data Engineering Banner" width="100%">
+  <img src="./banner2.svg" alt="Data Engineering Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Enes</h1>
