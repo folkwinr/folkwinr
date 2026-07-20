@@ -69,10 +69,9 @@ I am interested in opportunities where I can combine analytical thinking with te
 
 ---
 
-### ⭐ Goal
-Become the person teams call when they say:  
-**“Build reporting and metrics that don’t break when stakeholders ask “why?”**
+## ⭐ Goal
 
+To build a career where technical skills, curiosity, continuous learning, and collaboration come together to solve real business challenges with data.
 
 ---
 
