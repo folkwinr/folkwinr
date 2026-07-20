@@ -50,6 +50,19 @@
   </a>
 </p>
 
+<h1 align="center">Hi 👋 I'm ENES</h1>
+
+<h2 align="center">
+Data Analytics & Data Engineering
+</h2>
+
+<h3 align="center">
+Building reliable data for better business decisions
+</h3>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,sqlserver,databricks,spark,aws,tableau,powerbi,vscode" />
+</p>
 ---
 
 ## 👋 About Me
