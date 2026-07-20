@@ -24,7 +24,7 @@
 </p>
 
 
-## 👋 About Me
+##  📌 My Profile
 
 I am a data enthusiast with hands-on experience in both **Data Analytics** and **Data Engineering**.
 
