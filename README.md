@@ -194,11 +194,13 @@ To build a career where technical skills, curiosity, continuous learning, and co
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=folkwinr&theme=tokyo-night)
 
 
-### 🚀 GitHub Stats
+<!--
+## 🚀 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=folkwinr&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folkwinr&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=folkwinr&layout=compact&theme=github_dark)
+-->
 
 ---
 
