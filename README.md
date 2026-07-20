@@ -27,30 +27,21 @@
 
 ---
 
-<h1 align="center">Hi 👋 I'm ENES</h1>
-
-<h3 align="center">Data Analytics & Data Engineering</h3>
-
 <p align="center">
-Building reliable data for better business decisions
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,aws,vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="48"/>
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48"/>
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="48"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,sqlserver,databricks,spark,aws,tableau,git,github,vscode" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.kaggle.com/YOUR-KAGGLE">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 ---
