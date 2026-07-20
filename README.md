@@ -54,7 +54,7 @@ I am interested in opportunities where I can combine analytical thinking with te
 
 ---
 
-  **SQL • Python • pandas • Data Cleaning • Data Validation • EDA • KPI Design • Reporting • Dashboards • A/B Testing • Experiment Design • Statistics • Automation • Data Modeling • ETL/ELT • Data Warehousing • Data Modeling • Star Schema • Git**
+  **SQL • SQL Server • Python • PySpark • Databricks • AWS S3 • ETL/ELT • Structured Streaming • Data Warehousing • Medallion Architecture • Star Schema • Data Modeling • Data Cleaning • Data Validation • Data Quality • EDA • Statistics • KPI Design • Reporting • Dashboards • Tableau • Power BI • Git • GitHub**
 
 ---
 
