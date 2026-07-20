@@ -21,13 +21,21 @@
 
 ## 👋 About Me
 
-I’m a **Data Analyst** who’s a bit obsessive (in a good way) about **clarity**: clean definitions, consistent metrics, and reporting that doesn’t fall apart the moment someone asks, *“but what exactly does this mean?”*
+I am a data enthusiast with hands-on experience in both **Data Analytics** and **Data Engineering**.
 
-I enjoy the parts of data work most people avoid — messy joins, inconsistent categories, edge cases, and ambiguous requirements. My default mode is:
+I enjoy working with the full data process — from collecting and cleaning raw data to building data pipelines, creating analytics-ready datasets, and finding useful business insights.
 
-**make it measurable → make it reliable → make it readable**
+My main tools include **SQL, Python, PySpark, Databricks, AWS S3, Tableau, and Power BI**. I have built projects in data warehousing, ETL pipelines, data cleaning, exploratory data analysis, dashboard development, and predictive analysis.
 
-I care a lot about reporting and dashboards people actually use. Not “pretty charts,” but outputs that survive real stakeholder questions.
+I have experience designing **Star Schema data models**, developing **Bronze–Silver–Gold pipelines**, applying data quality checks, and preparing reliable datasets for reporting and decision-making.
+
+I also enjoy analyzing business problems, identifying trends, building KPIs, and presenting results in a clear and simple way.
+
+My approach to data is:
+
+**Understand the problem → Build reliable data → Find useful insights → Communicate clearly**
+
+I am interested in opportunities where I can combine analytical thinking with technical skills to build useful, scalable, and business-focused data solutions.
 
 ---
 
