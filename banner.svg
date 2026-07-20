@@ -1,0 +1,292 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Animated Data Engineering Pipeline Banner</title>
+  <desc id="desc">A premium GitHub-dark animated SVG showing an end-to-end data engineering and analytics pipeline.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#101824"/>
+      <stop offset="1" stop-color="#0b121c"/>
+    </linearGradient>
+
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+
+    <linearGradient id="bronze" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d08a45"/>
+      <stop offset="1" stop-color="#7a431f"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d8e1ea"/>
+      <stop offset="1" stop-color="#607284"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd86b"/>
+      <stop offset="1" stop-color="#b8860b"/>
+    </linearGradient>
+
+    <filter id="glowBlue" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowCyan" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000814" flood-opacity=".55"/>
+    </filter>
+
+    <clipPath id="sqlClip">
+      <rect x="235" y="34" width="170" height="70" rx="8"/>
+    </clipPath>
+
+    <path id="pipelinePath" d="M82 158 H1198"/>
+  </defs>
+
+  <style>
+    .label{font:600 12px ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial;fill:#c9d1d9;letter-spacing:.15px}
+    .tiny{font:500 8px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#8b949e}
+    .panel{fill:#101722;stroke:#28435f;stroke-width:1}
+    .module{filter:url(#shadow)}
+    .pulse{animation:pulse 3s ease-in-out infinite}
+    .slowPulse{animation:pulse 5s ease-in-out infinite}
+    .blink1{animation:blink 2.7s steps(1,end) infinite}
+    .blink2{animation:blink 3.6s steps(1,end) .8s infinite}
+    .blink3{animation:blink 4.2s steps(1,end) 1.7s infinite}
+    .chartLine{stroke-dasharray:180;stroke-dashoffset:180;animation:draw 5s ease-in-out infinite}
+    .bar1{transform-origin:1053px 143px;animation:bar 4s ease-in-out infinite}
+    .bar2{transform-origin:1053px 155px;animation:bar 4s ease-in-out .35s infinite}
+    .bar3{transform-origin:1053px 167px;animation:bar 4s ease-in-out .7s infinite}
+    .bronzeGlow{animation:layerGlow 6s ease-in-out infinite}
+    .silverGlow{animation:layerGlow 6s ease-in-out 2s infinite}
+    .goldGlow{animation:layerGlow 6s ease-in-out 4s infinite}
+    .float{animation:float 4s ease-in-out infinite}
+    .sqlscroll{animation:scroll 8s linear infinite}
+    .cloudParticle{animation:particle 4s linear infinite}
+    .cloudParticle:nth-of-type(2){animation-delay:1.2s}
+    .cloudParticle:nth-of-type(3){animation-delay:2.1s}
+    .dashDot{animation:dashdot 3s linear infinite}
+    @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+    @keyframes blink{0%,84%,100%{opacity:.25}85%,92%{opacity:1}}
+    @keyframes draw{0%{stroke-dashoffset:180}45%,70%{stroke-dashoffset:0}100%{stroke-dashoffset:-180}}
+    @keyframes bar{0%,100%{transform:scaleX(.35)}50%{transform:scaleX(1)}}
+    @keyframes layerGlow{0%,70%,100%{opacity:.4}15%,35%{opacity:1}}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+    @keyframes scroll{0%{transform:translateY(0)}100%{transform:translateY(-54px)}}
+    @keyframes particle{0%{opacity:0;transform:translateY(8px)}20%{opacity:1}100%{opacity:0;transform:translateY(-18px)}}
+    @keyframes dashdot{0%{stroke-dashoffset:0}100%{stroke-dashoffset:-24}}
+  </style>
+
+  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="318" rx="17" fill="none" stroke="#1d2b3a"/>
+
+  <!-- subtle grid -->
+  <g opacity=".16">
+    <path d="M0 248 H1280M0 272 H1280M0 296 H1280" stroke="#1f6feb" stroke-width=".7"/>
+    <path d="M80 232V320M240 232V320M400 232V320M560 232V320M720 232V320M880 232V320M1040 232V320M1200 232V320" stroke="#1f6feb" stroke-width=".5"/>
+  </g>
+
+  <!-- pipeline -->
+  <path d="M82 158 H1198" stroke="#13283d" stroke-width="10" stroke-linecap="round"/>
+  <path d="M82 158 H1198" stroke="url(#lineGrad)" stroke-width="2.5" stroke-linecap="round" filter="url(#glowBlue)" class="pulse"/>
+  <path d="M82 158 H1198" stroke="#58a6ff" stroke-width="1.2" stroke-dasharray="3 9" class="dashDot" opacity=".75"/>
+
+  <!-- animated packets -->
+  <g filter="url(#glowCyan)">
+    <circle r="3.2" fill="#22d3ee">
+      <animateMotion dur="8s" repeatCount="indefinite" path="M82 158 H1198"/>
+    </circle>
+    <circle r="2.5" fill="#58a6ff">
+      <animateMotion dur="8s" begin="-2.7s" repeatCount="indefinite" path="M82 158 H1198"/>
+    </circle>
+    <circle r="2.2" fill="#7dd3fc">
+      <animateMotion dur="8s" begin="-5.1s" repeatCount="indefinite" path="M82 158 H1198"/>
+    </circle>
+  </g>
+
+  <!-- Raw Data -->
+  <g class="module">
+    <g transform="translate(36 110)">
+      <ellipse cx="22" cy="0" rx="18" ry="6" fill="#173454" stroke="#58a6ff"/>
+      <rect x="4" y="0" width="36" height="30" fill="#0f2236" stroke="#58a6ff"/>
+      <ellipse cx="22" cy="30" rx="18" ry="6" fill="#102a44" stroke="#58a6ff"/>
+      <path d="M4 10c10 7 26 7 36 0M4 20c10 7 26 7 36 0" fill="none" stroke="#1f6feb"/>
+    </g>
+    <g class="slowPulse">
+      <rect x="34" y="150" width="48" height="14" rx="4" class="panel"/>
+      <rect x="34" y="169" width="48" height="14" rx="4" class="panel"/>
+      <rect x="34" y="188" width="48" height="14" rx="4" class="panel"/>
+      <text x="58" y="160" text-anchor="middle" class="tiny">CSV</text>
+      <text x="58" y="179" text-anchor="middle" class="tiny">JSON</text>
+      <text x="58" y="198" text-anchor="middle" class="tiny">API</text>
+    </g>
+    <text x="58" y="226" text-anchor="middle" class="label">Raw Data</text>
+  </g>
+
+  <!-- SQL Server -->
+  <g class="module">
+    <rect x="105" y="105" width="72" height="94" rx="8" class="panel"/>
+    <rect x="115" y="116" width="52" height="16" rx="3" fill="#0b121c" stroke="#27435e"/>
+    <rect x="115" y="139" width="52" height="16" rx="3" fill="#0b121c" stroke="#27435e"/>
+    <rect x="115" y="162" width="52" height="16" rx="3" fill="#0b121c" stroke="#27435e"/>
+    <circle cx="158" cy="124" r="2" fill="#3fb950" class="blink1"/>
+    <circle cx="151" cy="124" r="2" fill="#58a6ff" class="blink2"/>
+    <circle cx="158" cy="147" r="2" fill="#3fb950" class="blink3"/>
+    <circle cx="151" cy="170" r="2" fill="#22d3ee" class="blink2"/>
+    <text x="141" y="226" text-anchor="middle" class="label">SQL Server</text>
+  </g>
+
+  <!-- SQL monitor -->
+  <g class="module">
+    <rect x="226" y="26" width="188" height="88" rx="10" class="panel"/>
+    <circle cx="242" cy="41" r="3" fill="#f85149"/>
+    <circle cx="252" cy="41" r="3" fill="#d29922"/>
+    <circle cx="262" cy="41" r="3" fill="#3fb950"/>
+    <g clip-path="url(#sqlClip)">
+      <g class="sqlscroll">
+        <text x="239" y="58" class="tiny" fill="#58a6ff">SELECT customer_id, revenue</text>
+        <text x="239" y="71" class="tiny">FROM analytics.sales</text>
+        <text x="239" y="84" class="tiny" fill="#22d3ee">WHERE event_date &gt; CURRENT_DATE - 30</text>
+        <text x="239" y="97" class="tiny">GROUP BY customer_id;</text>
+        <text x="239" y="112" class="tiny" fill="#58a6ff">MERGE INTO silver.orders</text>
+        <text x="239" y="125" class="tiny">USING bronze.orders_stream</text>
+        <text x="239" y="138" class="tiny" fill="#22d3ee">ON target.id = source.id;</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ETL -->
+  <g class="module">
+    <rect x="198" y="115" width="92" height="82" rx="10" class="panel"/>
+    <circle cx="222" cy="141" r="9" fill="#102a44" stroke="#58a6ff"/>
+    <circle cx="266" cy="141" r="9" fill="#102a44" stroke="#58a6ff"/>
+    <path d="M231 141H257" stroke="#22d3ee" stroke-width="2"/>
+    <path d="M244 141v24h22" stroke="#22d3ee" stroke-width="2"/>
+    <rect x="259" y="158" width="16" height="16" rx="3" fill="#102a44" stroke="#58a6ff"/>
+    <circle cx="225" cy="170" r="10" fill="#f5c542"/>
+    <path d="M220 166h10v8h-10z" fill="#3776ab"/>
+    <text x="244" y="226" text-anchor="middle" class="label">ETL Pipeline</text>
+  </g>
+
+  <!-- Databricks -->
+  <g class="module float">
+    <rect x="312" y="113" width="86" height="86" rx="12" fill="#171513" stroke="#f97316"/>
+    <path d="M332 139l23-12 23 12-23 12-23-12zm0 13l23 12 23-12m-46 12l23 12 23-12" fill="none" stroke="#ff6a1a" stroke-width="3"/>
+    <text x="355" y="190" text-anchor="middle" font-size="10" font-family="ui-sans-serif,system-ui" fill="#ff7b32">databricks</text>
+    <text x="355" y="226" text-anchor="middle" class="label">Databricks</text>
+  </g>
+
+  <!-- PySpark -->
+  <g class="module">
+    <rect x="420" y="121" width="82" height="70" rx="10" class="panel"/>
+    <text x="461" y="159" text-anchor="middle" font-size="17" font-weight="700" font-family="ui-sans-serif,system-ui" fill="#e6edf3">Py<tspan fill="#f97316">Spark</tspan></text>
+    <path d="M478 136l4 8 9 1-7 6 2 9-8-5-8 5 2-9-7-6 9-1z" fill="#f97316" opacity=".9"/>
+    <text x="461" y="226" text-anchor="middle" class="label">PySpark</text>
+  </g>
+
+  <!-- AWS S3 -->
+  <g class="module">
+    <path d="M531 165c-18 0-22-24-5-31 4-19 31-21 39-5 18-4 30 16 19 29 8 3 8 16-3 16h-48c-8 0-12-9-2-9z" fill="#102a44" stroke="#58a6ff" stroke-width="2" filter="url(#glowBlue)"/>
+    <text x="556" y="155" text-anchor="middle" font-size="18" font-weight="700" fill="#f0f6fc">aws</text>
+    <path d="M546 162c8 6 18 6 26 0" fill="none" stroke="#f59e0b" stroke-width="2"/>
+    <path d="M548 176h18v15c-6 4-12 4-18 0z" fill="#0d4c77" stroke="#22d3ee"/>
+    <circle class="cloudParticle" cx="532" cy="130" r="2" fill="#22d3ee"/>
+    <circle class="cloudParticle" cx="574" cy="123" r="2" fill="#58a6ff"/>
+    <circle class="cloudParticle" cx="585" cy="144" r="1.8" fill="#7dd3fc"/>
+    <text x="556" y="226" text-anchor="middle" class="label">AWS S3</text>
+  </g>
+
+  <!-- Bronze Silver Gold -->
+  <g class="module">
+    <rect x="610" y="118" width="62" height="76" rx="10" fill="#15100c" stroke="#9a5a2d"/>
+    <g class="bronzeGlow" filter="url(#glowBlue)">
+      <ellipse cx="641" cy="140" rx="18" ry="6" fill="url(#bronze)"/>
+      <rect x="623" y="140" width="36" height="24" fill="url(#bronze)"/>
+      <ellipse cx="641" cy="164" rx="18" ry="6" fill="#7a431f"/>
+    </g>
+    <text x="641" y="216" text-anchor="middle" class="label">Bronze</text>
+  </g>
+
+  <g class="module">
+    <rect x="686" y="118" width="62" height="76" rx="10" fill="#11161c" stroke="#7d8c99"/>
+    <g class="silverGlow">
+      <ellipse cx="717" cy="140" rx="18" ry="6" fill="url(#silver)"/>
+      <rect x="699" y="140" width="36" height="24" fill="url(#silver)"/>
+      <ellipse cx="717" cy="164" rx="18" ry="6" fill="#607284"/>
+    </g>
+    <text x="717" y="216" text-anchor="middle" class="label">Silver</text>
+  </g>
+
+  <g class="module">
+    <rect x="762" y="118" width="62" height="76" rx="10" fill="#17140a" stroke="#d4a017"/>
+    <g class="goldGlow" filter="url(#glowBlue)">
+      <ellipse cx="793" cy="140" rx="18" ry="6" fill="url(#gold)"/>
+      <rect x="775" y="140" width="36" height="24" fill="url(#gold)"/>
+      <ellipse cx="793" cy="164" rx="18" ry="6" fill="#b8860b"/>
+    </g>
+    <text x="793" y="216" text-anchor="middle" class="label">Gold</text>
+  </g>
+
+  <!-- Star Schema -->
+  <g class="module">
+    <rect x="842" y="118" width="78" height="76" rx="10" class="panel"/>
+    <rect x="873" y="145" width="16" height="16" rx="3" fill="#173454" stroke="#58a6ff"/>
+    <rect x="850" y="126" width="12" height="12" rx="2" fill="#102a44" stroke="#58a6ff"/>
+    <rect x="899" y="126" width="12" height="12" rx="2" fill="#102a44" stroke="#58a6ff"/>
+    <rect x="850" y="174" width="12" height="12" rx="2" fill="#102a44" stroke="#58a6ff"/>
+    <rect x="899" y="174" width="12" height="12" rx="2" fill="#102a44" stroke="#58a6ff"/>
+    <path d="M873 149l-11-11m27 11l10-11m-26 21l-11 15m27-15l10 15" stroke="#22d3ee"/>
+    <text x="881" y="216" text-anchor="middle" class="label">Star Schema</text>
+  </g>
+
+  <!-- Analytics -->
+  <g class="module">
+    <rect x="936" y="118" width="76" height="76" rx="10" class="panel"/>
+    <path d="M949 172v-18m12 18v-28m12 28v-12m12 12v-36" stroke="#58a6ff" stroke-width="5" stroke-linecap="round"/>
+    <path d="M948 143l12-10 13 6 13-14" fill="none" stroke="#22d3ee" stroke-width="2" class="chartLine"/>
+    <text x="974" y="216" text-anchor="middle" class="label">Analytics</text>
+  </g>
+
+  <!-- Tableau dashboard -->
+  <g class="module">
+    <rect x="1026" y="89" width="152" height="116" rx="11" class="panel"/>
+    <text x="1038" y="106" font-size="8" font-weight="700" fill="#58a6ff">TABLEAU</text>
+    <rect x="1038" y="115" width="38" height="24" rx="4" fill="#0d1520" stroke="#23364a"/>
+    <rect x="1082" y="115" width="38" height="24" rx="4" fill="#0d1520" stroke="#23364a"/>
+    <rect x="1126" y="115" width="38" height="24" rx="4" fill="#0d1520" stroke="#23364a"/>
+    <text x="1057" y="128" text-anchor="middle" class="tiny">$12.6M</text>
+    <text x="1101" y="128" text-anchor="middle" class="tiny">25.4K</text>
+    <text x="1145" y="128" text-anchor="middle" class="tiny">9.6K</text>
+    <path d="M1039 172l14-10 12 5 14-16 13 7 15-21 17 10" fill="none" stroke="#22d3ee" stroke-width="2" class="chartLine"/>
+    <rect x="1053" y="143" width="36" height="5" rx="2" fill="#1f6feb" class="bar1"/>
+    <rect x="1053" y="155" width="53" height="5" rx="2" fill="#58a6ff" class="bar2"/>
+    <rect x="1053" y="167" width="28" height="5" rx="2" fill="#22d3ee" class="bar3"/>
+    <circle cx="1145" cy="165" r="18" fill="none" stroke="#1f6feb" stroke-width="7" stroke-dasharray="60 40">
+      <animateTransform attributeName="transform" type="rotate" from="0 1145 165" to="360 1145 165" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1165" cy="100" r="2" fill="#3fb950" class="blink1"/>
+    <text x="1102" y="226" text-anchor="middle" class="label">Tableau Dashboard</text>
+  </g>
+
+  <!-- Business Insights -->
+  <g class="module">
+    <circle cx="1226" cy="157" r="30" fill="#0f2236" stroke="#58a6ff" filter="url(#glowBlue)" class="slowPulse"/>
+    <path d="M1226 138c-10 0-17 8-17 17 0 6 3 10 8 14v6h18v-6c5-4 8-8 8-14 0-9-7-17-17-17zm-8 42h16" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="1226" cy="157" r="42" fill="none" stroke="#1f6feb" stroke-dasharray="2 8" opacity=".6">
+      <animateTransform attributeName="transform" type="rotate" from="0 1226 157" to="360 1226 157" dur="24s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1226" y="226" text-anchor="middle" class="label">Business Insights</text>
+  </g>
+
+  <!-- bottom tagline -->
+  <path d="M210 272H425M855 272h215" stroke="url(#lineGrad)" stroke-width="1.4" opacity=".7"/>
+  <circle cx="425" cy="272" r="3" fill="#22d3ee" filter="url(#glowCyan)" class="pulse"/>
+  <circle cx="855" cy="272" r="3" fill="#22d3ee" filter="url(#glowCyan)" class="pulse"/>
+  <text x="640" y="278" text-anchor="middle" font-size="18" font-weight="500" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial" fill="#d8dee9">
+    Building reliable data for better business decisions
+  </text>
+</svg>
