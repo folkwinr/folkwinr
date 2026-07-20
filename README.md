@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-  <img src="./premium_animated_data_pipeline_banner.svg" width="100%">
+  <img src="./banner.svg" width="100%" alt="Data Engineering Banner">
 </p>
 <!-- Hero Section -->
 
