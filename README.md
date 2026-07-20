@@ -56,6 +56,37 @@ I am interested in opportunities where I can combine analytical thinking with te
 
   **SQL • SQL Server • Python • PySpark • Databricks • AWS S3 • ETL/ELT • Structured Streaming • Data Warehousing • Medallion Architecture • Star Schema • Data Modeling • Data Cleaning • Data Validation • Data Quality • EDA • Statistics • KPI Design • Reporting • Dashboards • Tableau • Power BI • Git • GitHub**
 
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,aws,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ETL%2FELT-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Structured_Streaming-F57C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Warehousing-1565C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Medallion_Architecture-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Star_Schema-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-455A64?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Cleaning-43A047?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Validation-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Quality-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDA-5E35B1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistics-3949AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KPI_Design-00838F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reporting-546E7A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboards-7B1FA2?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 🎯 Current focus
@@ -194,26 +225,6 @@ To build a career where technical skills, curiosity, continuous learning, and co
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=folkwinr&theme=tokyo-night)
 
 ---
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=folkwinr&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-![](https://komarev.com/ghpvc/?username=folkwinr&color=blueviolet&style=for-the-badge)
-
----
-
-🐍
-██████████████████
-
----
-
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,git,github,vscode,aws)](https://skillicons.dev)
-
-
----
-
-
 
 <!--
 ## 🚀 GitHub Stats
