@@ -196,11 +196,9 @@ To build a career where technical skills, curiosity, continuous learning, and co
 
 ### 🚀 GitHub Stats
 
-<!-- Genel Profil İstatistik Kartı -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=folkwinr&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=folkwinr&show_icons=true&theme=github_dark)
 
-<!-- En Çok Kullanılan Diller -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folkwinr&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folkwinr&layout=compact&theme=github_dark)
 
 ---
 
