@@ -14,16 +14,7 @@
 Data Analytics &amp; Data Engineering |
 Building reliable data for better business decisions
 </h3>
-<!-- Hero Section -->
 
-<!-- Eski animasyon
-![Animasyon](https://user-images.githubusercontent.com/74038190/213910345-af37a709-8995-40d6-be59-724526e3c3d7.gif)
--->
-
-<p align="center">
-  <img src="./premium_animated_data_pipeline_banner.svg"
-       alt="Animated Data Engineering Pipeline"
-       width="100%">
 </p>
 
 <p align="center">
