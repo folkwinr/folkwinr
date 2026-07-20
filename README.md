@@ -193,6 +193,27 @@ To build a career where technical skills, curiosity, continuous learning, and co
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=folkwinr&theme=tokyo-night)
 
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=folkwinr&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+![](https://komarev.com/ghpvc/?username=folkwinr&color=blueviolet&style=for-the-badge)
+
+---
+
+🐍
+██████████████████
+
+---
+
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,git,github,vscode,aws)](https://skillicons.dev)
+
+
+---
+
+
 
 <!--
 ## 🚀 GitHub Stats
