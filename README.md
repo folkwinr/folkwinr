@@ -73,7 +73,7 @@ I am interested in opportunities where I can combine analytical thinking with te
 
 ---
 
-## ⭐ Goal
+## ⭐ Career Goal
 
 To build a career where technical skills, curiosity, continuous learning, and collaboration come together to solve real business challenges with data.
 
